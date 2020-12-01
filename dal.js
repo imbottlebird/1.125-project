@@ -1,5 +1,5 @@
 const MongoClient = require('mongodb').MongoClient;
-const url = "mongodb+srv://byeongjo:8317qudwh@cluster0.rgscl.mongodb.net/Cluster0?retryWrites=true&w=majority";
+const url = "###removed###";
 let db = null;
  
 // connect to mongo
