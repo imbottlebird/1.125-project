@@ -11,7 +11,7 @@ https://www.kaggle.com/yelp-dataset/yelp-dataset
 * Information on 174,000 businesses
 * The data spans 11 metropolitan areas
 
-**Features **
+**Features**
 * Sentiment Analysis
 * Geographical Analysis
 
