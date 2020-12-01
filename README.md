@@ -1,4 +1,4 @@
-## Text Summarization and Sentiment Analysis
+## 1.125 - Sentiment Analysis
 
 #### Team:
 * ByeongJo Kong
