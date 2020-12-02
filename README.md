@@ -15,3 +15,13 @@ https://www.kaggle.com/yelp-dataset/yelp-dataset
 * Sentiment Analysis
 * Geographical Analysis
 
+
+
+
+|:--|
+|<img src='img/s1.png' width='400'>|
+
+|:--|
+|<img src='img/s2.png' width='400'>|
+<br/>
+
