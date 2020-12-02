@@ -22,6 +22,6 @@ https://www.kaggle.com/yelp-dataset/yelp-dataset
 
 **Architecture**
 
-<img src='img/architecture.png' width='500'> 
+<img src='img/architectures.png' width='550'> 
 
 
