@@ -15,12 +15,13 @@ https://www.kaggle.com/yelp-dataset/yelp-dataset
 * Sentiment Analysis
 * Geographical Analysis
 
-<center><img src='img/screen0.png' width='200'>  <img src='img/screen1.png' width='200'>   <img src='img/screen2.png' width='200'></center>
-
+<p align="center">
+<img src='img/screen0.png' width='250'>  <img src='img/screen1.png' width='250'>   <img src='img/screen2.png' width='250'>
+</p>
 <br/>
 
 **Architecture**
 
-<img src='img/architecture.png' width='350'> 
+<img src='img/architecture.png' width='500'> 
 
 
